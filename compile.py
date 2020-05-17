@@ -16,8 +16,8 @@ def banner():
     print W + '     |C|o|m|p|i|l|e| |M|a|r|s|h|a|l|'
     print R + '     +-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+'
     print Y + '0{' + 39 * '=' + '}0'
-    print Y + '|' + B + ' Coded by: ' + W + 'Mr-W0lf' + Y + '                    |'
-    print Y + '|' + B + ' Email   : ' + W + 'drkscurty01@gmail.com' + Y + '|'
+    print Y + '|' + B + ' Coded by: ' + W + 'Mr-W0lf' + Y + '                      |'
+    print Y + '|' + B + ' Email   : ' + W + 'drkscurty01@gmail.com' + Y + '        |'
     print Y + '|' + B + ' Github  : ' + W + 'https://github.com/The-W0lf' + Y + '  |'
     print Y + '0{' + 39 * '=' + '}0\n'
 
